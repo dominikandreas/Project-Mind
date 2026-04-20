@@ -1,0 +1,6 @@
+{
+  "name": "Project Mind 2",
+  "description": "A generative UI project management tool where information from project history is compiled into a navigable tree and generates dynamic visualizations like Gantt charts and analytics plots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
